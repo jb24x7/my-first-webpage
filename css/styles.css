@@ -1,6 +1,10 @@
+body {
+  background-color: grey;
+}
+
 h1 {
   color: blue;
-  background-color: hotpink;
+  
 }
 
 h2 {
