@@ -14,4 +14,3 @@ Basic webpage for learning about HTML and CSS
 
 ## Known Bugs
 * Broken images and links
-## test item
